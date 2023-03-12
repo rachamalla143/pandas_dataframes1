@@ -1,0 +1,112 @@
+root : INFO : 2023-03-10 20:34:16,000 : {'_id': ObjectId('640c04489c18cd9cd1eede4c'), 'item': 'canvas', 'qty': 100, 'size': {'h': 28, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-10 20:34:16,003 : {'_id': ObjectId('640c04489c18cd9cd1eede4d'), 'item': 'journal', 'qty': 25, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-10 20:34:16,004 : {'_id': ObjectId('640c04489c18cd9cd1eede4e'), 'item': 'mat', 'qty': 85, 'size': {'h': 27.9, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-10 20:34:16,005 : {'_id': ObjectId('640c04489c18cd9cd1eede4f'), 'item': 'mousepad', 'qty': 25, 'size': {'h': 19, 'w': 22.85, 'uom': 'cm'}, 'status': 'P'}
+root : INFO : 2023-03-10 20:34:16,010 : {'_id': ObjectId('640c04489c18cd9cd1eede50'), 'item': 'notebook', 'qty': 50, 'size': {'h': 8.5, 'w': 11, 'uom': 'in'}, 'status': 'P'}
+root : INFO : 2023-03-10 20:34:16,011 : {'_id': ObjectId('640c04489c18cd9cd1eede53'), 'item': 'postcard', 'qty': 45, 'size': {'h': 10, 'w': 15.25, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-10 20:34:16,011 : {'_id': ObjectId('640c04489c18cd9cd1eede54'), 'item': 'sketchbook', 'qty': 80, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-10 20:34:16,012 : {'_id': ObjectId('640c04489c18cd9cd1eede55'), 'item': 'sketch pad', 'qty': 95, 'size': {'h': 22.85, 'w': 30.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-10 20:34:16,013 : {'_id': ObjectId('640c0483f8fe6163d71c4b09'), 'item': 'canvas', 'qty': 100, 'size': {'h': 28, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-10 20:34:16,013 : {'_id': ObjectId('640c0483f8fe6163d71c4b0a'), 'item': 'journal', 'qty': 25, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-10 20:34:16,013 : {'_id': ObjectId('640c0483f8fe6163d71c4b0b'), 'item': 'mat', 'qty': 85, 'size': {'h': 27.9, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-10 20:34:16,014 : {'_id': ObjectId('640c0483f8fe6163d71c4b0c'), 'item': 'mousepad', 'qty': 25, 'size': {'h': 19, 'w': 22.85, 'uom': 'cm'}, 'status': 'P'}
+root : INFO : 2023-03-10 20:34:16,014 : {'_id': ObjectId('640c0483f8fe6163d71c4b0d'), 'item': 'notebook', 'qty': 50, 'size': {'h': 8.5, 'w': 11, 'uom': 'in'}, 'status': 'P'}
+root : INFO : 2023-03-10 20:34:16,015 : {'_id': ObjectId('640c0483f8fe6163d71c4b10'), 'item': 'postcard', 'qty': 45, 'size': {'h': 10, 'w': 15.25, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-10 20:34:16,015 : {'_id': ObjectId('640c0483f8fe6163d71c4b11'), 'item': 'sketchbook', 'qty': 80, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-10 20:34:16,015 : {'_id': ObjectId('640c0483f8fe6163d71c4b12'), 'item': 'sketch pad', 'qty': 95, 'size': {'h': 22.85, 'w': 30.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-10 20:34:16,016 : {'_id': ObjectId('640c04c68a7f5a05a26ebeb3'), 'item': 'canvas', 'qty': 100, 'size': {'h': 28, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-10 20:34:16,016 : {'_id': ObjectId('640c04c68a7f5a05a26ebeb4'), 'item': 'journal', 'qty': 25, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-10 20:34:16,016 : {'_id': ObjectId('640c04c68a7f5a05a26ebeb5'), 'item': 'mat', 'qty': 85, 'size': {'h': 27.9, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-10 20:34:16,017 : {'_id': ObjectId('640c04c68a7f5a05a26ebeb6'), 'item': 'mousepad', 'qty': 25, 'size': {'h': 19, 'w': 22.85, 'uom': 'cm'}, 'status': 'P'}
+root : INFO : 2023-03-10 20:34:16,017 : {'_id': ObjectId('640c04c68a7f5a05a26ebeb7'), 'item': 'notebook', 'qty': 50, 'size': {'h': 8.5, 'w': 11, 'uom': 'in'}, 'status': 'P'}
+root : INFO : 2023-03-10 20:34:16,018 : {'_id': ObjectId('640c04c68a7f5a05a26ebeba'), 'item': 'postcard', 'qty': 45, 'size': {'h': 10, 'w': 15.25, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-10 20:34:16,019 : {'_id': ObjectId('640c04c68a7f5a05a26ebebb'), 'item': 'sketchbook', 'qty': 80, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-10 20:34:16,019 : {'_id': ObjectId('640c04c68a7f5a05a26ebebc'), 'item': 'sketch pad', 'qty': 95, 'size': {'h': 22.85, 'w': 30.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,143 : {'_id': ObjectId('640c04489c18cd9cd1eede4c'), 'item': 'canvas', 'qty': 100, 'size': {'h': 28, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,144 : {'_id': ObjectId('640c04489c18cd9cd1eede4d'), 'item': 'journal', 'qty': 25, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,145 : {'_id': ObjectId('640c04489c18cd9cd1eede4e'), 'item': 'mat', 'qty': 85, 'size': {'h': 27.9, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,145 : {'_id': ObjectId('640c04489c18cd9cd1eede4f'), 'item': 'mousepad', 'qty': 25, 'size': {'h': 19, 'w': 22.85, 'uom': 'cm'}, 'status': 'P'}
+root : INFO : 2023-03-11 00:52:56,146 : {'_id': ObjectId('640c04489c18cd9cd1eede50'), 'item': 'notebook', 'qty': 50, 'size': {'h': 8.5, 'w': 11, 'uom': 'in'}, 'status': 'P'}
+root : INFO : 2023-03-11 00:52:56,146 : {'_id': ObjectId('640c04489c18cd9cd1eede53'), 'item': 'postcard', 'qty': 45, 'size': {'h': 10, 'w': 15.25, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,147 : {'_id': ObjectId('640c04489c18cd9cd1eede54'), 'item': 'sketchbook', 'qty': 80, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,147 : {'_id': ObjectId('640c04489c18cd9cd1eede55'), 'item': 'sketch pad', 'qty': 95, 'size': {'h': 22.85, 'w': 30.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,148 : {'_id': ObjectId('640c0483f8fe6163d71c4b09'), 'item': 'canvas', 'qty': 100, 'size': {'h': 28, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,149 : {'_id': ObjectId('640c0483f8fe6163d71c4b0a'), 'item': 'journal', 'qty': 25, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,149 : {'_id': ObjectId('640c0483f8fe6163d71c4b0b'), 'item': 'mat', 'qty': 85, 'size': {'h': 27.9, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,150 : {'_id': ObjectId('640c0483f8fe6163d71c4b0c'), 'item': 'mousepad', 'qty': 25, 'size': {'h': 19, 'w': 22.85, 'uom': 'cm'}, 'status': 'P'}
+root : INFO : 2023-03-11 00:52:56,150 : {'_id': ObjectId('640c0483f8fe6163d71c4b0d'), 'item': 'notebook', 'qty': 50, 'size': {'h': 8.5, 'w': 11, 'uom': 'in'}, 'status': 'P'}
+root : INFO : 2023-03-11 00:52:56,150 : {'_id': ObjectId('640c0483f8fe6163d71c4b10'), 'item': 'postcard', 'qty': 45, 'size': {'h': 10, 'w': 15.25, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,151 : {'_id': ObjectId('640c0483f8fe6163d71c4b11'), 'item': 'sketchbook', 'qty': 80, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,151 : {'_id': ObjectId('640c0483f8fe6163d71c4b12'), 'item': 'sketch pad', 'qty': 95, 'size': {'h': 22.85, 'w': 30.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,152 : {'_id': ObjectId('640c04c68a7f5a05a26ebeb3'), 'item': 'canvas', 'qty': 100, 'size': {'h': 28, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,152 : {'_id': ObjectId('640c04c68a7f5a05a26ebeb4'), 'item': 'journal', 'qty': 25, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,152 : {'_id': ObjectId('640c04c68a7f5a05a26ebeb5'), 'item': 'mat', 'qty': 85, 'size': {'h': 27.9, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,154 : {'_id': ObjectId('640c04c68a7f5a05a26ebeb6'), 'item': 'mousepad', 'qty': 25, 'size': {'h': 19, 'w': 22.85, 'uom': 'cm'}, 'status': 'P'}
+root : INFO : 2023-03-11 00:52:56,154 : {'_id': ObjectId('640c04c68a7f5a05a26ebeb7'), 'item': 'notebook', 'qty': 50, 'size': {'h': 8.5, 'w': 11, 'uom': 'in'}, 'status': 'P'}
+root : INFO : 2023-03-11 00:52:56,155 : {'_id': ObjectId('640c04c68a7f5a05a26ebeba'), 'item': 'postcard', 'qty': 45, 'size': {'h': 10, 'w': 15.25, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,155 : {'_id': ObjectId('640c04c68a7f5a05a26ebebb'), 'item': 'sketchbook', 'qty': 80, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,156 : {'_id': ObjectId('640c04c68a7f5a05a26ebebc'), 'item': 'sketch pad', 'qty': 95, 'size': {'h': 22.85, 'w': 30.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,156 : {'_id': ObjectId('640c4131935367636fb65eab'), 'item': 'canvas', 'qty': 100, 'size': {'h': 28, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,156 : {'_id': ObjectId('640c4131935367636fb65eac'), 'item': 'journal', 'qty': 25, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,157 : {'_id': ObjectId('640c4131935367636fb65ead'), 'item': 'mat', 'qty': 85, 'size': {'h': 27.9, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,157 : {'_id': ObjectId('640c4131935367636fb65eae'), 'item': 'mousepad', 'qty': 25, 'size': {'h': 19, 'w': 22.85, 'uom': 'cm'}, 'status': 'P'}
+root : INFO : 2023-03-11 00:52:56,157 : {'_id': ObjectId('640c4131935367636fb65eaf'), 'item': 'notebook', 'qty': 50, 'size': {'h': 8.5, 'w': 11, 'uom': 'in'}, 'status': 'P'}
+root : INFO : 2023-03-11 00:52:56,158 : {'_id': ObjectId('640c4131935367636fb65eb2'), 'item': 'postcard', 'qty': 45, 'size': {'h': 10, 'w': 15.25, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,158 : {'_id': ObjectId('640c4131935367636fb65eb3'), 'item': 'sketchbook', 'qty': 80, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,158 : {'_id': ObjectId('640c4131935367636fb65eb4'), 'item': 'sketch pad', 'qty': 95, 'size': {'h': 22.85, 'w': 30.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,159 : {'_id': ObjectId('640c41672202a66572bb2e7d'), 'item': 'canvas', 'qty': 100, 'size': {'h': 28, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,159 : {'_id': ObjectId('640c41672202a66572bb2e7e'), 'item': 'journal', 'qty': 25, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,160 : {'_id': ObjectId('640c41672202a66572bb2e7f'), 'item': 'mat', 'qty': 85, 'size': {'h': 27.9, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,160 : {'_id': ObjectId('640c41672202a66572bb2e80'), 'item': 'mousepad', 'qty': 25, 'size': {'h': 19, 'w': 22.85, 'uom': 'cm'}, 'status': 'P'}
+root : INFO : 2023-03-11 00:52:56,161 : {'_id': ObjectId('640c41672202a66572bb2e81'), 'item': 'notebook', 'qty': 50, 'size': {'h': 8.5, 'w': 11, 'uom': 'in'}, 'status': 'P'}
+root : INFO : 2023-03-11 00:52:56,161 : {'_id': ObjectId('640c41672202a66572bb2e84'), 'item': 'postcard', 'qty': 45, 'size': {'h': 10, 'w': 15.25, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,161 : {'_id': ObjectId('640c41672202a66572bb2e85'), 'item': 'sketchbook', 'qty': 80, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:52:56,162 : {'_id': ObjectId('640c41672202a66572bb2e86'), 'item': 'sketch pad', 'qty': 95, 'size': {'h': 22.85, 'w': 30.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,781 : {'_id': ObjectId('640c04489c18cd9cd1eede4c'), 'item': 'canvas', 'qty': 100, 'size': {'h': 28, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,781 : {'_id': ObjectId('640c04489c18cd9cd1eede4d'), 'item': 'journal', 'qty': 25, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,781 : {'_id': ObjectId('640c04489c18cd9cd1eede4e'), 'item': 'mat', 'qty': 85, 'size': {'h': 27.9, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,781 : {'_id': ObjectId('640c04489c18cd9cd1eede4f'), 'item': 'mousepad', 'qty': 25, 'size': {'h': 19, 'w': 22.85, 'uom': 'cm'}, 'status': 'P'}
+root : INFO : 2023-03-11 00:58:10,781 : {'_id': ObjectId('640c04489c18cd9cd1eede50'), 'item': 'notebook', 'qty': 50, 'size': {'h': 8.5, 'w': 11, 'uom': 'in'}, 'status': 'P'}
+root : INFO : 2023-03-11 00:58:10,781 : {'_id': ObjectId('640c04489c18cd9cd1eede53'), 'item': 'postcard', 'qty': 45, 'size': {'h': 10, 'w': 15.25, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,781 : {'_id': ObjectId('640c04489c18cd9cd1eede54'), 'item': 'sketchbook', 'qty': 80, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,781 : {'_id': ObjectId('640c04489c18cd9cd1eede55'), 'item': 'sketch pad', 'qty': 95, 'size': {'h': 22.85, 'w': 30.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,782 : {'_id': ObjectId('640c0483f8fe6163d71c4b09'), 'item': 'canvas', 'qty': 100, 'size': {'h': 28, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,782 : {'_id': ObjectId('640c0483f8fe6163d71c4b0a'), 'item': 'journal', 'qty': 25, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,782 : {'_id': ObjectId('640c0483f8fe6163d71c4b0b'), 'item': 'mat', 'qty': 85, 'size': {'h': 27.9, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,782 : {'_id': ObjectId('640c0483f8fe6163d71c4b0c'), 'item': 'mousepad', 'qty': 25, 'size': {'h': 19, 'w': 22.85, 'uom': 'cm'}, 'status': 'P'}
+root : INFO : 2023-03-11 00:58:10,782 : {'_id': ObjectId('640c0483f8fe6163d71c4b0d'), 'item': 'notebook', 'qty': 50, 'size': {'h': 8.5, 'w': 11, 'uom': 'in'}, 'status': 'P'}
+root : INFO : 2023-03-11 00:58:10,782 : {'_id': ObjectId('640c0483f8fe6163d71c4b10'), 'item': 'postcard', 'qty': 45, 'size': {'h': 10, 'w': 15.25, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,782 : {'_id': ObjectId('640c0483f8fe6163d71c4b11'), 'item': 'sketchbook', 'qty': 80, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,782 : {'_id': ObjectId('640c0483f8fe6163d71c4b12'), 'item': 'sketch pad', 'qty': 95, 'size': {'h': 22.85, 'w': 30.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,783 : {'_id': ObjectId('640c04c68a7f5a05a26ebeb3'), 'item': 'canvas', 'qty': 100, 'size': {'h': 28, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,783 : {'_id': ObjectId('640c04c68a7f5a05a26ebeb4'), 'item': 'journal', 'qty': 25, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,783 : {'_id': ObjectId('640c04c68a7f5a05a26ebeb5'), 'item': 'mat', 'qty': 85, 'size': {'h': 27.9, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,783 : {'_id': ObjectId('640c04c68a7f5a05a26ebeb6'), 'item': 'mousepad', 'qty': 25, 'size': {'h': 19, 'w': 22.85, 'uom': 'cm'}, 'status': 'P'}
+root : INFO : 2023-03-11 00:58:10,783 : {'_id': ObjectId('640c04c68a7f5a05a26ebeb7'), 'item': 'notebook', 'qty': 50, 'size': {'h': 8.5, 'w': 11, 'uom': 'in'}, 'status': 'P'}
+root : INFO : 2023-03-11 00:58:10,783 : {'_id': ObjectId('640c04c68a7f5a05a26ebeba'), 'item': 'postcard', 'qty': 45, 'size': {'h': 10, 'w': 15.25, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,783 : {'_id': ObjectId('640c04c68a7f5a05a26ebebb'), 'item': 'sketchbook', 'qty': 80, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,783 : {'_id': ObjectId('640c04c68a7f5a05a26ebebc'), 'item': 'sketch pad', 'qty': 95, 'size': {'h': 22.85, 'w': 30.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,784 : {'_id': ObjectId('640c4131935367636fb65eab'), 'item': 'canvas', 'qty': 100, 'size': {'h': 28, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,784 : {'_id': ObjectId('640c4131935367636fb65eac'), 'item': 'journal', 'qty': 25, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,784 : {'_id': ObjectId('640c4131935367636fb65ead'), 'item': 'mat', 'qty': 85, 'size': {'h': 27.9, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,784 : {'_id': ObjectId('640c4131935367636fb65eae'), 'item': 'mousepad', 'qty': 25, 'size': {'h': 19, 'w': 22.85, 'uom': 'cm'}, 'status': 'P'}
+root : INFO : 2023-03-11 00:58:10,784 : {'_id': ObjectId('640c4131935367636fb65eaf'), 'item': 'notebook', 'qty': 50, 'size': {'h': 8.5, 'w': 11, 'uom': 'in'}, 'status': 'P'}
+root : INFO : 2023-03-11 00:58:10,784 : {'_id': ObjectId('640c4131935367636fb65eb2'), 'item': 'postcard', 'qty': 45, 'size': {'h': 10, 'w': 15.25, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,784 : {'_id': ObjectId('640c4131935367636fb65eb3'), 'item': 'sketchbook', 'qty': 80, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,784 : {'_id': ObjectId('640c4131935367636fb65eb4'), 'item': 'sketch pad', 'qty': 95, 'size': {'h': 22.85, 'w': 30.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,785 : {'_id': ObjectId('640c41672202a66572bb2e7d'), 'item': 'canvas', 'qty': 100, 'size': {'h': 28, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,785 : {'_id': ObjectId('640c41672202a66572bb2e7e'), 'item': 'journal', 'qty': 25, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,785 : {'_id': ObjectId('640c41672202a66572bb2e7f'), 'item': 'mat', 'qty': 85, 'size': {'h': 27.9, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,785 : {'_id': ObjectId('640c41672202a66572bb2e80'), 'item': 'mousepad', 'qty': 25, 'size': {'h': 19, 'w': 22.85, 'uom': 'cm'}, 'status': 'P'}
+root : INFO : 2023-03-11 00:58:10,785 : {'_id': ObjectId('640c41672202a66572bb2e81'), 'item': 'notebook', 'qty': 50, 'size': {'h': 8.5, 'w': 11, 'uom': 'in'}, 'status': 'P'}
+root : INFO : 2023-03-11 00:58:10,785 : {'_id': ObjectId('640c41672202a66572bb2e84'), 'item': 'postcard', 'qty': 45, 'size': {'h': 10, 'w': 15.25, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,785 : {'_id': ObjectId('640c41672202a66572bb2e85'), 'item': 'sketchbook', 'qty': 80, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,785 : {'_id': ObjectId('640c41672202a66572bb2e86'), 'item': 'sketch pad', 'qty': 95, 'size': {'h': 22.85, 'w': 30.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,785 : {'_id': ObjectId('640c42a14b62453bc90cb6a6'), 'item': 'canvas', 'qty': 100, 'size': {'h': 28, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,785 : {'_id': ObjectId('640c42a14b62453bc90cb6a7'), 'item': 'journal', 'qty': 25, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,785 : {'_id': ObjectId('640c42a14b62453bc90cb6a8'), 'item': 'mat', 'qty': 85, 'size': {'h': 27.9, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,785 : {'_id': ObjectId('640c42a14b62453bc90cb6a9'), 'item': 'mousepad', 'qty': 25, 'size': {'h': 19, 'w': 22.85, 'uom': 'cm'}, 'status': 'P'}
+root : INFO : 2023-03-11 00:58:10,785 : {'_id': ObjectId('640c42a14b62453bc90cb6aa'), 'item': 'notebook', 'qty': 50, 'size': {'h': 8.5, 'w': 11, 'uom': 'in'}, 'status': 'P'}
+root : INFO : 2023-03-11 00:58:10,785 : {'_id': ObjectId('640c42a14b62453bc90cb6ad'), 'item': 'postcard', 'qty': 45, 'size': {'h': 10, 'w': 15.25, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,786 : {'_id': ObjectId('640c42a14b62453bc90cb6ae'), 'item': 'sketchbook', 'qty': 80, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-11 00:58:10,786 : {'_id': ObjectId('640c42a14b62453bc90cb6af'), 'item': 'sketch pad', 'qty': 95, 'size': {'h': 22.85, 'w': 30.5, 'uom': 'cm'}, 'status': 'A'}

@@ -1,0 +1,1 @@
+root : INFO : 2023-03-11 14:10:25,747 : {'_id': ObjectId('640c45a26cfba9e34c91d384'), 'item': 'Nagaraju', 'qty': 100, 'size': {'h': 28, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}

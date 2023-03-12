@@ -1,0 +1,2 @@
+root : INFO : 2023-03-10 11:39:01,771 : {'_id': ObjectId('640aa18f3a9ba9c6a663470a'), 'item': 'paper', 'qty': 100, 'size': {'h': 8.5, 'w': 11, 'uom': 'in'}, 'status': 'D'}
+root : INFO : 2023-03-10 11:39:01,772 : {'_id': ObjectId('640aa18f3a9ba9c6a6634705'), 'item': 'canvas', 'qty': 100, 'size': {'h': 28, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}

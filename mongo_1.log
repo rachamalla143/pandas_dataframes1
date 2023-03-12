@@ -1,0 +1,14 @@
+root : INFO : 2023-03-09 18:30:33,039 : we are going to connecting the mongo db....!
+root : INFO : 2023-03-09 18:30:37,628 : we are successfully connected mongoDb altas...!
+root : INFO : 2023-03-09 18:30:37,630 : we are created for database in mongo db.....!
+root : INFO : 2023-03-09 18:30:37,631 : we are creating as  documents in mongoDb..........!
+root : INFO : 2023-03-09 18:30:38,783 : we are printing as {'_id': ObjectId('640a964dc92ac263022d6488'), 'item': 'canvas', 'qty': 100, 'size': {'h': 28, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-09 18:30:38,784 : we are printing as {'_id': ObjectId('640a964dc92ac263022d6489'), 'item': 'journal', 'qty': 25, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-09 18:30:38,788 : we are printing as {'_id': ObjectId('640a964dc92ac263022d648a'), 'item': 'mat', 'qty': 85, 'size': {'h': 27.9, 'w': 35.5, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-09 18:30:38,789 : we are printing as {'_id': ObjectId('640a964dc92ac263022d648b'), 'item': 'mousepad', 'qty': 25, 'size': {'h': 19, 'w': 22.85, 'uom': 'cm'}, 'status': 'P'}
+root : INFO : 2023-03-09 18:30:38,789 : we are printing as {'_id': ObjectId('640a964dc92ac263022d648c'), 'item': 'notebook', 'qty': 50, 'size': {'h': 8.5, 'w': 11, 'uom': 'in'}, 'status': 'P'}
+root : INFO : 2023-03-09 18:30:38,790 : we are printing as {'_id': ObjectId('640a964dc92ac263022d648d'), 'item': 'paper', 'qty': 100, 'size': {'h': 8.5, 'w': 11, 'uom': 'in'}, 'status': 'D'}
+root : INFO : 2023-03-09 18:30:38,790 : we are printing as {'_id': ObjectId('640a964dc92ac263022d648e'), 'item': 'planner', 'qty': 75, 'size': {'h': 22.85, 'w': 30, 'uom': 'cm'}, 'status': 'D'}
+root : INFO : 2023-03-09 18:30:38,791 : we are printing as {'_id': ObjectId('640a964dc92ac263022d648f'), 'item': 'postcard', 'qty': 45, 'size': {'h': 10, 'w': 15.25, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-09 18:30:38,792 : we are printing as {'_id': ObjectId('640a964dc92ac263022d6490'), 'item': 'sketchbook', 'qty': 80, 'size': {'h': 14, 'w': 21, 'uom': 'cm'}, 'status': 'A'}
+root : INFO : 2023-03-09 18:30:38,792 : we are printing as {'_id': ObjectId('640a964dc92ac263022d6491'), 'item': 'sketch pad', 'qty': 95, 'size': {'h': 22.85, 'w': 30.5, 'uom': 'cm'}, 'status': 'A'}
